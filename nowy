@@ -1,0 +1,1 @@
+echo "Login użytkownika to $USER"
